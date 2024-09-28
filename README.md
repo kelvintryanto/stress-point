@@ -14,7 +14,7 @@ Soal stress management yang dibuat untuk lebih memahami javascript function dan 
 ## Restrictions
 - tidak ada aturan, silakan coding ugal-ugalan yang penting tujuannya tercapai sesuai jawaban seperti di bawah ini
 ```js
-Halo, Kelvin! Terkadang hidup sedang tidak baik-baik saja. Kamu memiliki stress point sebanyak 17 point. Stress kamu tergolong **stress sedang**. Kamu punya pilihan untuk  membuat stress tersebut menjadi Eustress atau Distress. Cari lebih lanjut Eustress atau Distress dari sumber manapun.
+Halo, Kelvin! Terkadang hidup sedang tidak baik-baik saja. Kamu memiliki stress point sebanyak 17 point. Stress kamu tergolong Stress Sedang. Kamu punya pilihan untuk  membuat stress tersebut menjadi Eustress atau Distress. Cari lebih lanjut Eustress atau Distress dari sumber manapun.
 ```
 - pakai semua cara yang bisa digunakan yaitu: looping, condition, function
 
