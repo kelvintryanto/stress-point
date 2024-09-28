@@ -1,4 +1,4 @@
-function getPoints(arr, index) {
+function getPoints(str, index) {
     // silakan coding ugal-ugalan di bawah sini
 }
 

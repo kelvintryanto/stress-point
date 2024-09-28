@@ -44,10 +44,10 @@ function split(arr,params)
 ### Release 2 - `getPoints`
 - Function `getPoints` merupakan fungsi untuk menghitung jumlah point dari jawaban-jawaban yang sudah ada.
 - Function `getPoints` memiliki 2 parameter input yaitu:
-  - `arr` berupa _array single dimensi_ yang berisi jawaban atas pertanyaan effective stress management
+  - `str` berupa _string_ yang berisi jawaban atas pertanyaan effective stress management
   - `index` adalah _number_ yang berisi nomor jawaban soal
 ```js
-function getPoints(arr, index){
+function getPoints(str, index){
     //silakan coding ugal-ugalan di bawah sini
 }
 ```
