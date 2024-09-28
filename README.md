@@ -16,7 +16,7 @@ Soal stress management yang dibuat untuk lebih memahami javascript function dan 
 ```js
 Halo, Kelvin! Terkadang hidup sedang tidak baik-baik saja. Kamu memiliki stress point sebanyak 17 point. Stress kamu tergolong **stress sedang**. Kamu punya pilihan untuk  membuat stress tersebut menjadi Eustress atau Distress. Cari lebih lanjut Eustress atau Distress dari sumber manapun.
 ```
-- pakai semua cara yang bisa digunakan selama yaitu: looping, condition, function
+- pakai semua cara yang bisa digunakan yaitu: looping, condition, function
 
 ## Objectives
 - Mampu menyelesaikan masalah yang diberikan
