@@ -1,4 +1,4 @@
-function countPoints(arr) {
+function getPoints(arr, index) {
     // silakan coding ugal-ugalan di bawah sini
 }
 

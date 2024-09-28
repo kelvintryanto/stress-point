@@ -41,12 +41,13 @@ function split(arr,params)
 }
 ```
 
-### Release 2 - `countPoints`
-- Function `countPoints` merupakan fungsi untuk menghitung jumlah point dari jawaban-jawaban yang sudah ada.
-- Function `countPoints` memiliki 1 parameter input yaitu:
-  - `arr` berupa _array single dimensi_ yang berisi jawaban-jawaban atas pertanyaan effective stress management
+### Release 2 - `getPoints`
+- Function `getPoints` merupakan fungsi untuk menghitung jumlah point dari jawaban-jawaban yang sudah ada.
+- Function `getPoints` memiliki 2 parameter input yaitu:
+  - `arr` berupa _array single dimensi_ yang berisi jawaban atas pertanyaan effective stress management
+  - `index` adalah _number_ yang berisi nomor jawaban soal
 ```js
-function countPoints(arr){
+function getPoints(arr, index){
     //silakan coding ugal-ugalan di bawah sini
 }
 ```
