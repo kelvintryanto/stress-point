@@ -80,7 +80,7 @@ effectiveStressManagement
 5. Seberapa sering Anda merasa hal-hal terjadi sesuai rencana Anda?
 6. Seberapa sering Anda merasa bahwa Anda tidak dapat mengatasi hal-hal yang harus Anda lakukan?
 7. Seberapa sering Anda dapat mengatasi gangguan yang terjadi dalam hidup Anda?
-8. Seberapa sering Anda merasa bahwa Anda dapat mengongrol segala hal dengan sangat baik?
+8. Seberapa sering Anda merasa bahwa Anda dapat mengontrol segala hal dengan sangat baik?
 9. Seberapa sering Anda merasa marah karena hal-hal yang terjadi di luar kontrol Anda?
 10. Seberapa sering Anda merasa berada dalam kesulitan yang berat sehingga Anda tidak dapat mengatasinya?
 
